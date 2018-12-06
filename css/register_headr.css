@@ -1,0 +1,73 @@
+.register_headr {
+  height: 100px;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo_help {
+  height: 100px;
+}
+
+.logo_help img {
+  margin-top: 20px;
+}
+
+.help {
+  margin-top: 20px;
+}
+
+.help .welcome {
+  font-size: 18x;
+  color: #999;
+  font-family: '宋体';
+}
+
+/* .help_center {
+  height: 22px;
+  width: 120px;
+} */
+.help_center {
+  width: 90px;
+  height: 20px;
+  margin-left: 40px;
+  position: relative;
+
+}
+
+
+.ball {
+  width: 16px;
+  height: 18px;
+  display: inline-block;
+  background: url(../img/regist.png) no-repeat right top;
+  vertical-align: middle;
+
+
+}
+
+.pull {
+  /* width: 12px;
+  height: 12px; */
+  background: url(../img/regist.png) no-repeat right -30px;
+  padding-right: 19px;
+}
+
+.ul_li {
+  display: none;
+  width: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0;
+  padding-top: 21px;
+  border: 1px solid #ccc;
+  /* padding-left: 20px; */
+}
+
+.ul_li ul {
+  text-align: center;
+}
+
+.ul_li ul li {
+  height: 20px;
+  width: 100px;
+  border-top: 1px dashed #ccc;
+}

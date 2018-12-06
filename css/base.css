@@ -1,0 +1,94 @@
+/* SVN.committedRevision=f8e2054 */
+body,
+p,
+form,
+input,
+button,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  padding: 0;
+  list-style: none
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  list-style: none
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font: 12px Arial, Helvetica, sans-serif;
+  outline-style: none;
+  border: 0 none;
+  vertical-align: middle;
+  color: #333;
+}
+
+input,
+select,
+textarea {
+  font-size: 100%;
+  vertical-align: bottom;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-family: '宋体';
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: #e60012
+}
+
+
+.clearfix:after {
+  display: block;
+  content: ".";
+  height: 0;
+  visibility: hidden;
+  clear: both;
+  font-size: 0;
+  line-height: 0
+}
+
+.clearfix {
+  zoom: 1
+}
+
+img {
+  border: 0 none;
+  vertical-align: top;
+}
+
+em {
+  font-style: normal
+}
+
+.left {
+  float: left
+}
+
+.right {
+  float: right
+}
+
+.w {
+  width: 1200px;
+  margin: 0 auto;
+}

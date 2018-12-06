@@ -1,0 +1,12 @@
+.footer {
+  width: 324px;
+  margin: 0 auto;
+}
+.footer span {
+  padding: 0px 5px;
+}
+.footer p {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+}
